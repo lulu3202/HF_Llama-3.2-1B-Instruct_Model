@@ -1,5 +1,5 @@
 # Photography Learning Assistant with Llama-3.2-1B-Instruct-model
-Inference Training using Llama-3.2-1B-Instruct model leveraging Hugging Face
+Inference Training using Llama-3.2-1B-Instruct model leveraging Hugging Face and Google Colab 
 
 In this notebook, I have utilized meta-llama/Llama-3.2-1B-Instruct model to develop a photography learning assistant designed to support amateur photographers. This assistant is capable of performing two key functions:
 
