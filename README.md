@@ -13,3 +13,7 @@ In this notebook, I have utilized meta-llama/Llama-3.2-1B-Instruct model to deve
 
 You can try out the app that is hosted on Hugging Spaces (leveraging Gradio) - https://huggingface.co/spaces/Deepri24/Photography_Learning_Assistant_1
 
+![image](https://github.com/user-attachments/assets/1dd87bf6-0528-4adb-b8e3-c84a6218e346)
+
+![image](https://github.com/user-attachments/assets/4ff469ec-949b-4f3c-9ae7-e02d845f141c)
+
